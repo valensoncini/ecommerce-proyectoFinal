@@ -35,8 +35,8 @@ export default function Register(){
           <Card className="shadow-sm">
             <Card.Body>
               <div className="text-center mb-4">
-                <h3>Registro</h3>
-                <p className="text-muted">Registrese para acceder</p>
+                <h3>Crear una cuenta</h3>
+                <p className="text-muted">Cree una cuenta para acceder</p>
               </div>
 
               <Form onSubmit={registrarUSuario}>
